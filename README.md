@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![empd project](https://github.com/user-attachments/assets/3c255106-a3e9-4db5-a83b-c06b352d4a9f)
 
-![OUTPUT (2)](https://github.com/user-attachments/assets/e5ad563c-02a6-4371-95ce-5eddad87c070)
 
 ### Name: RITHIKA N
 ### Register Number: 212223230172
